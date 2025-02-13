@@ -1,7 +1,7 @@
 import sys
 import traceback
 from types import ModuleType
-import logging
+from src.logger import logging
 
 def error_message_detail(error: Exception, error_detail: ModuleType) -> str:
     """
