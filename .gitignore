@@ -128,6 +128,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+Agenda.txt
+.artifacts
 .env
 .venv
 env/
@@ -169,4 +171,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-Agenda.txt
