@@ -130,6 +130,7 @@ celerybeat.pid
 # Environments
 logs/
 Agenda.txt
+.artifacts/
 .env
 .venv
 env/
