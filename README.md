@@ -19,7 +19,7 @@ This project implements a machine learning system to predict student mathematics
 ## Installation & Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/KarimTahaM/Student-Performance-Predictor.git
+git clone https://github.com/KarimTahaM/Student-Performance-Predictor
 cd Student-Performance-Predictor
 ```
 
