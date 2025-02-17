@@ -18,10 +18,10 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-    name='Student-Performance-Predictor',  # Update this to your new repository name
+    name='Student-Performance-Predictor',
     version='0.0.1',
     author='Karim',
-    author_email='your.email@example.com',
+    author_email='kareemtaha012@gmail.com',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 )
